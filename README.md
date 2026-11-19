@@ -65,8 +65,6 @@ Main SPI signals:
 | MISO      | GPIO 19 |
 | RST       | GPIO 22 |
 
-> Verify these GPIO numbers against your actual hardware wiring and Arduino code before finalizing the repository.
-
 ## Software
 
 * Arduino IDE
@@ -84,8 +82,8 @@ RFID card detection and UID-based access decisions were verified using the Seria
 ```text
 ESP32-RFID-Access-Control-System/
 │
-├── ESP32-RFID-Access-Control-System.ino
-├── rfid-hardware.jpg
+├── ESP32_RFID_Access_System.ino
+├── rfid_hardware.jpeg
 └── README.md
 ```
 
