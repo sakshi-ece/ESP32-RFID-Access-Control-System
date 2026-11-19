@@ -91,6 +91,6 @@ ESP32-RFID-Access-Control-System/
 
 ## Limitations
 
-This project implements basic UID-based authorization for demonstration and learning p
+This project implements basic UID-based authorization for demonstration and learning.
 
 
